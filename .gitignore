@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/NSwag.Sample
+/ConsoleNSwag/bin/Debug/net6.0
+/ConsoleNSwag/obj
+/WebNSwag.Sample/bin/Debug/net6.0
+/WebNSwag.Sample/obj/Debug/net6.0
+/WebNSwag.Sample/obj

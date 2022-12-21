@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSwag.Sample", "NSwag.Sample\NSwag.Sample.csproj", "{7A939C5F-F7A1-458D-A4A5-01CC0BD1BAFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebNSwag.Sample", "WebNSwag.Sample\WebNSwag.Sample.csproj", "{76CCC1E6-00EA-4ECA-89AB-D27634404F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleNSwag", "ConsoleNSwag\ConsoleNSwag.csproj", "{64021A25-C17E-443A-8E77-FF144A92B5CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7A939C5F-F7A1-458D-A4A5-01CC0BD1BAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A939C5F-F7A1-458D-A4A5-01CC0BD1BAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A939C5F-F7A1-458D-A4A5-01CC0BD1BAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A939C5F-F7A1-458D-A4A5-01CC0BD1BAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CCC1E6-00EA-4ECA-89AB-D27634404F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CCC1E6-00EA-4ECA-89AB-D27634404F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CCC1E6-00EA-4ECA-89AB-D27634404F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CCC1E6-00EA-4ECA-89AB-D27634404F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64021A25-C17E-443A-8E77-FF144A92B5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64021A25-C17E-443A-8E77-FF144A92B5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64021A25-C17E-443A-8E77-FF144A92B5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64021A25-C17E-443A-8E77-FF144A92B5CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
